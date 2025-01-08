@@ -1,4 +1,4 @@
-package com.ll.jpa_250108;
+package com.ll;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class Jpa250108Application {
     public static void main(String[] args) {
         SpringApplication.run(Jpa250108Application.class, args);
     }
-
 }
